@@ -1,7 +1,8 @@
 /**
  *
- * Static methods for fixing @-mentions, intended to be called from FeedItem and Comment triggers.
- * 
+ * Static Apex methods for fixing @-mentions, intended to be called from FeedItem and FeedComment triggers.
+ * See https://appexchange.salesforce.com/listingDetail?listingId=a0N3000000B4RRAEA3 for more information. 
+ *
  * @author alouie-sfdc
  *
  */
